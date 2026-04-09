@@ -938,7 +938,7 @@ _________________________________
 
 > 本Skill由 [女娲 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
 > 
-> 蒸馏者：Claude Haiku
+> 蒸馏者：[Bayson](https://github.com/Bayson-create)
 > 
 > 创建日期：2026-04-08
 > 
